@@ -1,0 +1,1 @@
+This program is a simple QR code scanner that allows you to quickly read QR codes in screenshots and photos. The program also allows you to quickly generate a QR code based on the text or link entered in the field.
