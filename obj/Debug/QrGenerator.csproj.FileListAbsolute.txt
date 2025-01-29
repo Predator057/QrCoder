@@ -1,0 +1,12 @@
+C:\Users\Иван\source\repos\QrGenerator\bin\Debug\QrGenerator.exe.config
+C:\Users\Иван\source\repos\QrGenerator\bin\Debug\QrGenerator.exe
+C:\Users\Иван\source\repos\QrGenerator\bin\Debug\QrGenerator.pdb
+C:\Users\Иван\source\repos\QrGenerator\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.Form1.resources
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.Properties.Resources.resources
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.csproj.CopyComplete
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.exe
+C:\Users\Иван\source\repos\QrGenerator\obj\Debug\QrGenerator.pdb
